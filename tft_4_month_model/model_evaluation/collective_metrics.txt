@@ -1,0 +1,16 @@
+Collective Evaluation Metrics (June 2025)
+==================================================
+Period: June 1st to June 30th
+Number of products evaluated: 444
+==================================================
+
+[MICRO METRICS - Global Average]
+Micro MAE:   1.1574
+Micro RMSE:  1.9040
+Micro WAPE:  1.1306
+
+[MACRO METRICS - Average Across Products]
+Macro MAE:   1.1574
+Macro RMSE:  1.6055
+
+==================================================
